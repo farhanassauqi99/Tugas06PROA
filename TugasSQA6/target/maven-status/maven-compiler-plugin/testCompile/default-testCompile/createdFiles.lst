@@ -1,0 +1,11 @@
+SwagLabs\runner\runCart.class
+SwagLabs\stepDef\login.class
+SwagLabs\runner\runAll.class
+SwagLabs\runner\runLogin.class
+SwagLabs\stepDef\resetState.class
+SwagLabs\stepDef\cart.class
+SwagLabs\HelperClass.class
+SwagLabs\runner\runCheckout.class
+SwagLabs\stepDef\Hooks.class
+SwagLabs\stepDef\checkout.class
+SwagLabs\runner\runReset.class

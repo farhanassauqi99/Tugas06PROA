@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SwagLabs.runner.runLogin
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 121.998 s - in SwagLabs.runner.runLogin
